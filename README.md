@@ -4,7 +4,7 @@
 
 ## How To Play
 
-1. Click ON button.
+1. Click POWER button.
 2. Click the START button. Simon will give the first signal. Repeat the signal by pressing the same color.
 3. Simon will duplicate first signal and add one. Repeat these two signals by pressing the same colors in order.
 4. Simon will duplicate these first two signals and add one.
